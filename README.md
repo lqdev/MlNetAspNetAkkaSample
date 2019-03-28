@@ -1,6 +1,6 @@
 # ML.NET ASP.NET Core Web API Akka.NET Sample
 
-This sample application utilizes Akka.NET actors to safely scale ML.NET predictions made through HTTP Requests an ASP.NET Core Web API.
+This sample application utilizes Akka.NET actors to safely scale ML.NET predictions made via HTTP Requests in an ASP.NET Core Web API.
 
 ## Prerequisites
 
